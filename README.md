@@ -1,4 +1,4 @@
-### नमस्ते (Namaste)🙏🏻, I'm Rajat Sharma 
+<h1 align="center">Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Rajat Sharma. </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### 𝕚 𝕒𝕞 𝕗𝕒𝕔𝕚𝕟𝕒𝕥𝕖𝕕 𝕥𝕠𝕨𝕒𝕣𝕕𝕤 𝕨𝕖𝕓 𝕒𝕡𝕡𝕤 𝕒𝕟𝕕 𝕣𝕖𝕤𝕥 𝕒𝕡𝕚 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 ❤️
@@ -21,7 +21,7 @@
 <h2></h2>
 
 <h2></h2>
-<h3 align="left"><b>Languages and Tools:</b></h3>
+<h3 align="left"><b>Languages and frameworks I've worked with:</b></h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
@@ -38,10 +38,11 @@
 
 <h3 align="left">Reach me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rajat-sharma-a56491185/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/rajat-sharma-a56491185/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajat-sharma-a56491185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rajat-sharma-a56491185/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rajat4665" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/rajat4665" height="30" width="40" /></a>
 <a href="https://leetcode.com/rajat4665/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/rajat4665/" height="30" width="40" /></a>
- <a href="https://www.instagram.com/awsmrajat" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/Instagram_black.svg" alt="https://www.instagram.com/awsmrajat" height="30" width="40" /></a>
+ <a href="https://medium.com/@rajat4665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajat4665" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/awsmrajat" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="https://www.instagram.com/awsmrajat" height="30" width="40" /></a>
  
 </p>
 </p>
