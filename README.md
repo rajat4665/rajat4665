@@ -38,7 +38,7 @@
 
 <h3 align="left">Reach me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rajat-sharma-a56491185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rajat-sharma-a56491185/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajat-sharma-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rajat-sharma-dev/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rajat4665" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/rajat4665" height="30" width="40" /></a>
 <a href="https://leetcode.com/rajat4665/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/rajat4665/" height="30" width="40" /></a>
  <a href="https://medium.com/@rajat4665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajat4665" height="30" width="40" /></a>
