@@ -10,7 +10,7 @@
 - 📫 How to reach me:  LinkedIn (https://www.linkedin.com/in/rajat-sharma-dev/) or mail me at (rajat4665@gmail.com)
 - 😄  Pronouns: Bug Hunter
 - ⚡ Fun fact: I love to automate things with Python and bug hunting
-- 📖 Here is my CV link https://rajat4665.github.io/rajat4665/Rajat_cv_jan_2026.pdf
+- 📖 Here is my CV link https://rajat4665.github.io/rajat4665/Rajat_cv_jun_2026.pdf
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat4665&label=Profile%20views&color=0e75b6&style=flat-square" alt="rajat4665" /> </p>
