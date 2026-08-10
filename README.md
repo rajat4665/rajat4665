@@ -1,71 +1,91 @@
-<h1 align="center">Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Rajat Sharma. </h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<div align="center">
 
-### 𝕚 𝕒𝕞 𝕗𝕒𝕔𝕚𝕟𝕒𝕥𝕖𝕕 𝕥𝕠𝕨𝕒𝕣𝕕𝕤 𝕨𝕖𝕓 𝕒𝕡𝕡𝕤 𝕒𝕟𝕕 𝕣𝕖𝕤𝕥 𝕒𝕡𝕚 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 ❤️
+<img src="https://raw.githubusercontent.com/mitul3737/mitul3737/main/Wave.gif" width="32"/>
+<h1>Hi, I'm Rajat Sharma</h1>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Senior+Software+Engineer+%40+SII+Group+India;Python+%7C+Django+%2F+DRF+%7C+FastAPI;AWS+%7C+GCP+%7C+Azure;Building+GenAI-powered+workflows" alt="Typing SVG" />
 
-- 🔭 I’m currently working on Web apps Development using Python, Django, Js, Angular.
-- 👯 I’m looking to collaborate on Rest Api, Web scraping and Database
-- 💬 Ask me about Rest APi, Web apps, Api integrartion
-- 📫 How to reach me:  LinkedIn (https://www.linkedin.com/in/rajat-sharma-dev/) or mail me at (rajat4665@gmail.com)
-- 😄  Pronouns: Bug Hunter
-- ⚡ Fun fact: I love to automate things with Python and bug hunting
-- 📖 Here is my CV link https://rajat4665.github.io/rajat4665/Rajat_cv_jun_2026.pdf
+</div>
 
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat4665&label=Profile%20views&color=0e75b6&style=flat-square" alt="rajat4665" /> </p>
-<p> <img src="https://img.shields.io/github/followers/rajat4665?style=social" alt="rajat4665" /> </p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you more!</b> 😊</em>
+Senior Software Engineer with **8+ years** of experience building scalable web apps and REST APIs with Python, Django/DRF and FastAPI. I like eliminating N+1 queries, designing clean database schemas, and shipping cloud-native systems on AWS, GCP and Azure. Currently leading backend development on **Reuters Connect**, a global news content distribution platform, at SII Group India.
 
+- 🔭 Currently building serverless data pipelines and partner integrations for Reuters Connect (AWS Lambda, S3, DynamoDB, SWF)
+- 🤖 Exploring GenAI-powered workflows with the Claude API, OpenAI API and LiteLLM
+- 👯 Open to collaborating on REST APIs, web scraping and database-heavy projects
+- 💬 Ask me about Django/DRF, API design, query optimisation or AWS
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rajat-sharma-dev/) or at **rajat4665@gmail.com**
+- 📄 [Download my CV](https://rajat4665.github.io/rajat4665/Rajat_Sharma_CV.pdf)
+- ⚡ Fun fact: I love automating things with Python and hunting bugs
 
-<h2></h2>
+<br clear="right"/>
 
-<h2></h2>
-<h3 align="left"><b>Languages and frameworks I've worked with:</b></h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
- <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a> 
- <a href="https://angularjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="AngularJs" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/bootstrap4/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap 4" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left"><b>Cloud (AWS):</b></h3>
 <p align="left">
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white" alt="Amazon S3"/>
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" alt="Amazon EC2"/>
-<img src="https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white" alt="Amazon CloudWatch"/>
+  <img src="https://komarev.com/ghpvc/?username=rajat4665&label=Profile%20views&color=0e75b6&style=flat-square" alt="rajat4665 profile views" />
+  <img src="https://img.shields.io/github/followers/rajat4665?style=flat-square&color=0e75b6&label=Followers" alt="rajat4665 followers" />
 </p>
 
-<h3 align="left">Reach me :</h3>
+## 🛠️ Languages, Frameworks & Tools
+
 <p align="left">
-<a href="https://www.linkedin.com/in/rajat-sharma-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rajat-sharma-dev/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajat4665" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/rajat4665" height="30" width="40" /></a>
-<a href="https://leetcode.com/rajat4665/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/rajat4665/" height="30" width="40" /></a>
- <a href="https://medium.com/@rajat4665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajat4665" height="30" width="40" /></a>
- <a href="https://www.instagram.com/awsmrajat" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="https://www.instagram.com/awsmrajat" height="30" width="40" /></a>
- 
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,vue,angular,html,css,bootstrap" alt="core stack" />
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,aws,gcp,azure,docker,kubernetes,jenkins,git,postman" alt="cloud and devops" />
 </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajat4665&show_icons=true&locale=en" alt="rajat-sharma" />
- </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat4665&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="rajat-sharma" /></p>
- 
- <br>
- <br></br></br><br>
- <br></br></br><br>
- <br></br></br>
- <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=claude,openai" alt="AI and GenAI" /> &nbsp;
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" alt="celery"/>
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white" alt="scrapy"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="selenium"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" alt="sentry"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" alt="datadog"/>
+</p>
+
+## ☁️ AWS Services I Work With
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" alt="Amazon EC2"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" alt="Amazon RDS"/>
+  <img src="https://img.shields.io/badge/Step%20Functions-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="Step Functions"/>
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white" alt="CloudFormation"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white" alt="Amazon CloudWatch"/>
+  <img src="https://img.shields.io/badge/SES-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="Amazon SES"/>
+  <img src="https://img.shields.io/badge/SNS-FF4F8B?style=flat&logo=amazonsns&logoColor=white" alt="Amazon SNS"/>
+</p>
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rajat-sharma-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rajat4665@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.hackerrank.com/rajat4665" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://leetcode.com/rajat4665/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://medium.com/@rajat4665" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.instagram.com/awsmrajat" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajat4665&show_icons=true&locale=en&theme=default&hide_border=true" alt="rajat4665's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat4665&show_icons=true&locale=en&layout=compact&hide_border=true" alt="rajat4665's top languages" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat4665&hide_border=true" alt="rajat4665's streak stats" />
+</p>
+
+<h2 align="center">🐍 Watch a Snake Eat My Contribution Graph</h2>
 <p align="center">
-  <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajat4665/rajat4665/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajat4665/rajat4665/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajat4665/rajat4665/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
- 
-<!-- ![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajat4665&show_icons=true&theme=radical&count_private=true&show_icons=true)
- -->
+
+<p align="center"><em>Thanks for stopping by — always happy to connect, so say hi! 😊</em></p>
