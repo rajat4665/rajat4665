@@ -69,23 +69,4 @@ Senior Software Engineer with **8+ years** of experience building scalable web a
   <a href="https://www.instagram.com/awsmrajat" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajat4665&show_icons=true&locale=en&theme=default&hide_border=true" alt="rajat4665's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat4665&show_icons=true&locale=en&layout=compact&hide_border=true" alt="rajat4665's top languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat4665&hide_border=true" alt="rajat4665's streak stats" />
-</p>
-
-<h2 align="center">🐍 Watch a Snake Eat My Contribution Graph</h2>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajat4665/rajat4665/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajat4665/rajat4665/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajat4665/rajat4665/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 <p align="center"><em>Thanks for stopping by — always happy to connect, so say hi! 😊</em></p>
