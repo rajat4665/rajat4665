@@ -3,6 +3,8 @@
 <img src="https://raw.githubusercontent.com/mitul3737/mitul3737/main/Wave.gif" width="32"/>
 <h1>Hi, I'm Rajat Sharma</h1>
 
+Senior Software Engineer · Python & Django/DRF Developer · Pune, India
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Senior+Software+Engineer+%40+SII+Group+India;Python+%7C+Django+%2F+DRF+%7C+FastAPI;AWS+%7C+GCP+%7C+Azure;Building+GenAI-powered+workflows" alt="Typing SVG" />
 
 </div>
@@ -16,6 +18,7 @@ Senior Software Engineer with **8+ years** of experience building scalable web a
 - 👯 Open to collaborating on REST APIs, web scraping and database-heavy projects
 - 💬 Ask me about Django/DRF, API design, query optimisation or AWS
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rajat-sharma-dev/) or at **rajat4665@gmail.com**
+- 🌐 Portfolio: [rajat4665.github.io/rajat_portfolio](https://rajat4665.github.io/rajat_portfolio/)
 - 📄 [Download my CV](https://rajat4665.github.io/rajat4665/Rajat_Sharma_CV.pdf)
 - ⚡ Fun fact: I love automating things with Python and hunting bugs
 
